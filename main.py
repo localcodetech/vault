@@ -9,7 +9,7 @@ class VaultApp(ctk.CTk):
     def __init__(self):
         super().__init__()
 
-        self.geometry("700x500")
+        self.geometry("1500x1500")
         self.title("VaultLane Password Manager")
 
 
